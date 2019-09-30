@@ -32,7 +32,7 @@ var add = (x) => {
   
   
   var final=add(i)
-  const ans = ` length of your string is . ${final}`
+  const ans = ` length of your string is  ${final}`
   document.querySelector('#width').innerHTML = ans
   }
   }
